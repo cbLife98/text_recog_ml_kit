@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034121353921",
+    "firebase_url": "https://textrecog-1f39a.firebaseio.com",
+    "project_id": "textrecog-1f39a",
+    "storage_bucket": "textrecog-1f39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034121353921:android:cd38b73845fe15a6",
+        "android_client_info": {
+          "package_name": "com.example.text_recog_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034121353921-geltpsom34ahvrqjqc8h86jej1tigg70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQolDhCv6ukUKz7y98yGdgiu8hnq2Q_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034121353921-geltpsom34ahvrqjqc8h86jej1tigg70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
